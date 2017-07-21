@@ -1,0 +1,5 @@
+## Kattis problem sets
+***
+These are my own worked solutions to some of [kattis](https://open.kattis.com/problems) problem sets.
+Most are written in *python 2*.    
+Enjoy and feel free to suggest better and more efficient solutions.
